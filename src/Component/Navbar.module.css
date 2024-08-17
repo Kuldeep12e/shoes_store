@@ -1,0 +1,32 @@
+.nav{
+    display:  flex;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.logoimg{
+    margin-top : 10px;
+    margin-left : 10px;
+}
+
+.navlist{
+    display: flex;
+}
+
+.navlist li{
+    list-style: none;
+    padding : 20px;
+    font-weight: 900;
+
+}
+
+.nav button{
+    background-color: red;
+    width: 80px;
+    height: 30px;
+    margin-top : 10px;
+    border : none;
+    font-weight: 900;
+    color : white;
+    margin-left : 10px;
+}
